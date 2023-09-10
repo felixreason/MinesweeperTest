@@ -1,0 +1,3 @@
+﻿  Minesweeper.cpp
+D:\Users\Felix\Documents\GitHub\MinesweeperTest\Minesweeper\Minesweeper\Minesweeper.cpp(61,23): warning C4018: '<': signed/unsigned mismatch
+  Minesweeper.vcxproj -> D:\Users\Felix\Documents\GitHub\MinesweeperTest\Minesweeper\x64\Debug\Minesweeper.exe
