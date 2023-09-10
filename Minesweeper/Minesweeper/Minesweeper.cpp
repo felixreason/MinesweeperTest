@@ -200,4 +200,8 @@ int main() {
 
     // Free allocated memory.
     delete[] minefield;
+
+    std::cin.get();
+    std::cin.get();
+    return 0;
 }
